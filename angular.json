@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "car-shop"
+    }
+  },
+  "defaultProject": "car-shop",
+  "cli": {
+    "analytics": "c68ff880-498f-4d4a-a11f-ed8c8613517c"
+  }
 }

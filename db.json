@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "name": "bmw",
+      "date": "17.04.20",
+      "model": "x5",
+      "isSold": false,
+      "id": 6
+    },
+    {
+      "name": "mazda",
+      "date": "17.04.20",
+      "model": "6",
+      "isSold": false,
+      "id": 7
+    },
+    {
+      "name": "vw",
+      "date": "17.04.20",
+      "model": "golf",
+      "isSold": false,
+      "id": 9
+    },
+    {
+      "name": "vw",
+      "date": "17.04.20",
+      "model": "passat",
+      "isSold": false,
+      "id": 10
+    },
+    {
+      "name": "mazda",
+      "date": "17.04.20",
+      "model": "3",
+      "isSold": false,
+      "id": 11
+    }
+  ]
+}
